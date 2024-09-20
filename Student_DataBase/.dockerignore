@@ -1,0 +1,5 @@
+ bin/
+sh/
+obj/
+*.sln
+*.user
